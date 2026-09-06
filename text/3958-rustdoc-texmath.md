@@ -1,7 +1,7 @@
 - Feature Name: `rustdoc_texmath`
 - Start Date: 2026-04-30
 - RFC PR: [rust-lang/rfcs#3958](https://github.com/rust-lang/rfcs/pull/3958)
-- Rust Issue: [rust-lang/rust#0000](https://github.com/rust-lang/rust/issues/0000)
+- Rust Issue: [rust-lang/rust#162365](https://github.com/rust-lang/rust/issues/162365)
 
 ## Summary
 [summary]: #summary
